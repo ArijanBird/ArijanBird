@@ -7,6 +7,10 @@
     Full-stack web developer | Android reverse engineering | Bot & automation developer
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Abdul;C%23+Developer+%7C+Automation+Engineer;Crypto+Trading+Bot+Builder;Real-Time+Systems+%26+API+Specialist;Freelancer+Focused+on+Fintech+Tools" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -25,7 +29,7 @@
 ### 💻 Frontend
 
 - HTML / CSS / JavaScript
-- React (or any framework you use)
+- React / Next
 - Responsive UI development
 
 ### ⚙️ Backend
@@ -73,25 +77,11 @@
 
 ## 💡 Featured Project Ideas
 
-> (Replace with real repos later)
-
 - 🔹 Full-Stack Web API System (ASP.NET Core + frontend)
 - 🔹 Android App Behavior Analyzer Tool
 - 🔹 C# Automation Framework (task/event-driven)
 - 🔹 Real-Time Market Data Bot (WebSocket engine)
 - 🔹 Risk-Controlled Trading Bot Architecture
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
