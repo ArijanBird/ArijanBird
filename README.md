@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Abdul;Full-Stack+Web+Developer;Android+Reverse+Engineering+Specialist;Bot+%26+Automation+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;Android+Reverse+Engineering+Specialist;Bot+%26+Automation+Developer" />
 </p>
 
 ---
