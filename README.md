@@ -1,56 +1,92 @@
-<!-- 🟣 HEADER BANNER -->
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="./banner.png" alt="banner" />
+</p>
 
-![banner](./banner.png)
+<h1 align="center">Hi 👋, I'm Abdul</h1>
 
-👋 Hi, I’m Arijan — a software developer interested in how technology is reshaping the way people build, learn, and create. I work with modern software systems, focusing on building tools that are reliable, scalable, and thoughtfully designed. I’m also interested in system-level software and how complex technologies interact under the surface.
+<p align="center">
+  💻 C# Developer | 🤖 Automation Engineer | 📊 Trading Systems Enthusiast
+</p>
+
+---
 
 ## 🚀 About Me
 
-Full-stack web developer and Android reverse engineering enthusiast.
-I build web applications, automation tools, and security-focused Android solutions.
+- 🧠 I specialize in **automation systems and real-time applications**
+- 🎮 Background in **game/MMORPG automation & reverse engineering**
+- 📈 Interested in **algorithmic trading and financial systems**
+- ⚙️ Focused on building **scalable, reliable backend systems**
+- 🌍 Exploring opportunities in **freelancing & fintech development**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 💻 Web Development
+### Languages
 
-- ASP.NET Core / Web API
-- React / JavaScript
-- HTML / CSS
+- C#
+- C++
+- Python (basic/optional if you use it)
+- JavaScript
+
+### Backend / Systems
+
+- .NET / ASP.NET Core
+- WebSocket APIs
 - REST APIs
-- SQL Server / MySQL
+- Multithreading / Async systems
 
-### 📱 Android Reverse Engineering
+### Tools & Platforms
 
-- APK analysis
-- Frida scripting
-- Objection tools
-- Reverse engineering workflows
-
-### 🤖 Automation & Bots
-
-- Python automation scripts
-- Discord bots
-- Web scraping tools
+- Git & GitHub
+- Docker (optional)
+- ByBit API / Binance API (crypto systems)
+- MetaTrader / NinjaTrader (trading platforms)
 
 ---
 
-## 📂 Featured Projects
+## 📊 Current Focus
 
-- Full-stack CRUD App (React + ASP.NET Core)
-- Android APK Analyzer Tool
-- Automation Bot for Web Tasks
+- 📌 Building trading automation systems (C# based)
+- 📌 Developing crypto trading bots (ByBit / Binance APIs)
+- 📌 Learning market microstructure & risk management
+- 📌 Freelance-ready automation tools
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+> (You can replace these later with real repos)
+
+- 🔹 Crypto Trading Bot (C# + ByBit API)
+- 🔹 Market Data Streaming Engine (WebSocket)
+- 🔹 Risk Management Module (Portfolio control system)
+- 🔹 Automation Framework for Real-Time Systems
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contact
 
-- Email: a78906142@gmail.com
-- GitHub: https://github.com/ArijanBird
+- 📧 Email: a78906142@gmail.com
+- 💬 Telegram: @robustdever
+
+---
+
+## ⚡ Fun Fact
+
+> “I build automation systems that behave like bots—but in real financial markets instead of games.”
+
+---
