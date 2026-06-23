@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Abdul;C%23+Developer+%7C+Automation+Engineer;Crypto+Trading+Bot+Builder;Real-Time+Systems+%26+API+Specialist;Freelancer+Focused+on+Fintech+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-stack web developer;Android reverse engineering+%7C+Bot & automation developer" />
 </p>
 
 ---
