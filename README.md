@@ -1,10 +1,11 @@
-# ArijanBird-portfolio
-Full-stack developer &amp; Android reverse engineering portfolio
+<!-- 🟣 HEADER BANNER -->
 
+![banner](./banner.png)
 
 👋 Hi, I’m Arijan — a software developer interested in how technology is reshaping the way people build, learn, and create. I work with modern software systems, focusing on building tools that are reliable, scalable, and thoughtfully designed. I’m also interested in system-level software and how complex technologies interact under the surface.
 
 ## 🚀 About Me
+
 Full-stack web developer and Android reverse engineering enthusiast.
 I build web applications, automation tools, and security-focused Android solutions.
 
@@ -13,6 +14,7 @@ I build web applications, automation tools, and security-focused Android solutio
 ## 🛠️ Skills
 
 ### 💻 Web Development
+
 - ASP.NET Core / Web API
 - React / JavaScript
 - HTML / CSS
@@ -20,12 +22,14 @@ I build web applications, automation tools, and security-focused Android solutio
 - SQL Server / MySQL
 
 ### 📱 Android Reverse Engineering
+
 - APK analysis
 - Frida scripting
 - Objection tools
 - Reverse engineering workflows
 
 ### 🤖 Automation & Bots
+
 - Python automation scripts
 - Discord bots
 - Web scraping tools
