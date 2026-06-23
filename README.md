@@ -3,66 +3,83 @@
   <img src="./banner.png" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdul</h1>
-
 <p align="center">
-  💻 C# Developer | 🤖 Automation Engineer | 📊 Trading Systems Enthusiast
+    Full-stack web developer | Android reverse engineering | Bot & automation developer
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 I specialize in **automation systems and real-time applications**
-- 🎮 Background in **game/MMORPG automation & reverse engineering**
-- 📈 Interested in **algorithmic trading and financial systems**
-- ⚙️ Focused on building **scalable, reliable backend systems**
-- 🌍 Exploring opportunities in **freelancing & fintech development**
+- 💻 Full-Stack Web Developer (Frontend + Backend systems)
+- 📱 Android Reverse Engineering enthusiast
+- 🤖 Bot & Automation developer (real-time systems)
+- ⚙️ Focused on building scalable backend & API-driven applications
+- 🔐 Interested in system internals, automation, and performance engineering
+- 🌍 Freelance-oriented developer building production-level tools
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Frontend
+
+- HTML / CSS / JavaScript
+- React (or any framework you use)
+- Responsive UI development
+
+### ⚙️ Backend
 
 - C#
-- C++
-- Python (basic/optional if you use it)
-- JavaScript
-
-### Backend / Systems
-
-- .NET / ASP.NET Core
-- WebSocket APIs
+- ASP.NET Core
 - REST APIs
-- Multithreading / Async systems
+- WebSocket systems
+- Authentication systems (JWT, OAuth basics)
 
-### Tools & Platforms
+### 📱 Mobile / Reverse Engineering
+
+- Android APK analysis
+- Reverse engineering tools & techniques
+- Automation testing & behavior analysis
+- Hooking / instrumentation concepts (for research & analysis)
+
+### 🤖 Automation & Bots
+
+- C# automation systems
+- Real-time event-driven bots
+- API-based automation
+- Data scraping / monitoring systems
+- Trading bot concepts (ByBit / Binance APIs)
+
+### 🧰 Tools & Platforms
 
 - Git & GitHub
-- Docker (optional)
-- ByBit API / Binance API (crypto systems)
-- MetaTrader / NinjaTrader (trading platforms)
+- Docker (basic/optional)
+- Postman
+- Linux / Windows environments
+- Crypto APIs (ByBit / Binance)
 
 ---
 
-## 📊 Current Focus
+## 📌 Current Focus
 
-- 📌 Building trading automation systems (C# based)
-- 📌 Developing crypto trading bots (ByBit / Binance APIs)
-- 📌 Learning market microstructure & risk management
-- 📌 Freelance-ready automation tools
+- 🧠 Building robust automation systems (C#)
+- 📡 Working with real-time APIs & WebSocket data streams
+- 📱 Exploring Android application internals & reverse engineering
+- 🤖 Developing bot architectures (scalable + safe design)
+- 💼 Preparing freelance-ready software tools
 
 ---
 
-## 💡 Projects
+## 💡 Featured Project Ideas
 
-> (You can replace these later with real repos)
+> (Replace with real repos later)
 
-- 🔹 Crypto Trading Bot (C# + ByBit API)
-- 🔹 Market Data Streaming Engine (WebSocket)
-- 🔹 Risk Management Module (Portfolio control system)
-- 🔹 Automation Framework for Real-Time Systems
+- 🔹 Full-Stack Web API System (ASP.NET Core + frontend)
+- 🔹 Android App Behavior Analyzer Tool
+- 🔹 C# Automation Framework (task/event-driven)
+- 🔹 Real-Time Market Data Bot (WebSocket engine)
+- 🔹 Risk-Controlled Trading Bot Architecture
 
 ---
 
