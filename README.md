@@ -81,18 +81,11 @@
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: a78906142@gmail.com
-- 💬 Telegram: @robustdever
-
----
-
 ## 📫 Connect with me
 
 ### 💬 Messaging
 
-<a href="https://t.me/@robustdever" target="_blank">
+<a href="https://t.me/robustdever" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
@@ -102,13 +95,5 @@
 
 <a href="https://wa.me/15392226010" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ArijanBird">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-</a>
-
-<a href="mail-to:a78906142@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 ---
