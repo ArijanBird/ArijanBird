@@ -88,8 +88,27 @@
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Connect with me
 
-> “I build automation systems that behave like bots—but in real financial markets instead of games.”
+### 💬 Messaging
 
+<a href="https://t.me/@robustdever" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/1491131997496807586" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/15392226010" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ArijanBird">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+
+<a href="mail-to:a78906142@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
 ---
